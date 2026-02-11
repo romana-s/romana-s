@@ -16,16 +16,6 @@ Olá! Sou **Romana**, desenvolvedora em formação. Apaixonada por criar soluç�
 
 ---
 
-## 🚀 Projetos em Destaque
-
-### 📝 [Lista de Tarefas](https://github.com/romana-s/todo-list-app)
-Aplicativo web de gerenciamento de tarefas com persistência de dados usando LocalStorage.
-
-**Tecnologias:** HTML5, CSS3, JavaScript  
-**Deploy:** [Ver ao vivo](https://romana-s.github.io/todo-list-app/)
-
----
-
 ## 🛠️ Tecnologias & Ferramentas
 
 <div style="display: inline_block"><br>
